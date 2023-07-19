@@ -93,7 +93,7 @@ public class Main {
         }
         else System.out.println (" Число " +two+ " не является самым большим");
         if (three >=3) {
-            System.out.println ("Самое большое число");
+            System.out.println ("Число " +three+ " Самое большое");
         }
         else System.out.println (" Число " +three+ " не является самым большим");
 
